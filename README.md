@@ -1,12 +1,16 @@
-# mobile-testing-appium-cucumber-js-starter
+# mobile-rest-api-testing
 
-A starter template for mobile testing with Appium and CucumberJS.
+Simple mobile testing with Appium and CucumberJS
 
 ## How to use
 
 1. Clone this repository.
 
-2. Write the tests.
+2. Download the dependencies.
+
+```sh
+npm install
+```
 
 3. Run the tests.
 
